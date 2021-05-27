@@ -1,1 +1,2 @@
 
+ten tekst został dodany pisząc w branchu master
