@@ -1,1 +1,2 @@
-# to jest pierwsza linijka
+# ten tekst został wpisany pisząc w branchu master
+
